@@ -4,7 +4,7 @@ class PostContent extends Component {
   render() {
     return (
       <div className="PostContent">
-        {this.props.post}
+        {this.props.postContent}
       </div>
     )
   }
