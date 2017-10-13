@@ -20,7 +20,7 @@ To start the app, from the project root:
 Once loaded, refer to the seed file for user account info.
 `db/seeds.rb`
 
-## Accesibility
+## Accessibility
 
 The design maintains a crisp, clean user interface with minimal contrasting colors.
 
